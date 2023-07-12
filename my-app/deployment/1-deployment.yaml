@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: aticd/nginx:v0.1.0
+          image: maticd/nginx:v0.1.1
           ports:
             - containerPort: 80
